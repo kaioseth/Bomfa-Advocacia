@@ -40,13 +40,13 @@
             <?php include_once('especialidades.php'); ?>
         </section>   
 
-        <section id="testimonials">
-            <?php include_once('frases.php'); ?>
-        </section>
-
-        <!--<section id="contact">
-            <?php //include_once('contato.php'); ?>
+        <!--<section id="testimonials">
+            <?php //include_once('frases.php'); ?>
         </section>-->
+
+        <section id="contact">
+            <?php include_once('contato.php'); ?>
+        </section>
 
         <footer>
             <?php include_once('rodape.php'); ?>
