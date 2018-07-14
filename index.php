@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<!--[if lt IE 8 ]><html class="no-js ie ie7" lang="en"> <![endif]-->
-<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"> <![endif]-->
+<!--[if lt IE 8 ]><html class="no-js ie ie7" lang="pt-br"> <![endif]-->
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="pt-br"> <![endif]-->
 <!--[if (gte IE 8)|!(IE)]><!--><html class="no-js" lang="pt-br"> <!--<![endif]-->
     <head>
         <meta charset="utf-8">
@@ -14,9 +14,16 @@
         <link rel="stylesheet" href="css/default.css">
         <link rel="stylesheet" href="css/layout.css">
         <link rel="stylesheet" href="css/media-queries.css">
-        <link rel="stylesheet" href="css/magnific-popup.css">
-    </head>
+        <!--<link rel="stylesheet" href="css/magnific-popup.css">-->
 
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+    </head>
+<?php
+    $link_instagram = "";
+    $link_linkedin = "";
+    $link_skype = "";
+    $link_whatsapp = "";
+?>
     <body>
         <header id="home">
             <nav id="nav-wrap">
@@ -56,7 +63,7 @@
         <script>window.jQuery || document.write('<script src="js/jquery-1.10.2.min.js"><\/script>')</script>
         <script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
         <script src="js/modernizr.js"></script>
-        <script src="js/jquery.flexslider.js"></script>
+        <!--<script src="js/jquery.flexslider.js"></script>-->
         <script src="js/waypoints.js"></script>
         <script src="js/jquery.fittext.js"></script>
         <script src="js/magnific-popup.js"></script>

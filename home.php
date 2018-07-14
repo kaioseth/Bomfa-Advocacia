@@ -9,9 +9,9 @@
     </h3>
     <hr />
     <ul class="social">
-        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-        <li><a href="#"><i class="fa fa-skype"></i></a></li>
-        <li><a href="#"><i class="fa fa-skype"></i></a></li>
+        <li><a href="<?php echo $link_instagram; ?>"><i class="fab fa-instagram"></i></a></li>
+        <li><a href="<?php echo $link_linkedin; ?>"><i class="fab fa-linkedin-in"></i></a></li>
+        <li><a href="<?php echo $link_skype; ?>"><i class="fab fa-skype"></i></a></li>
+        <li><a href="<?php echo $link_whatsapp; ?>"><i class="fab fa-whatsapp"></i></a></li>
     </ul>
 </div>
