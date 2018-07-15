@@ -9,6 +9,7 @@
     </h3>
     <hr />
     <ul class="social">
+        <li><a href="<?php echo $link_email; ?>"><i class="far fa-envelope"></i></a></li>
         <li><a href="<?php echo $link_instagram; ?>"><i class="fab fa-instagram"></i></a></li>
         <li><a href="<?php echo $link_linkedin; ?>"><i class="fab fa-linkedin-in"></i></a></li>
         <li><a href="<?php echo $link_skype; ?>"><i class="fab fa-skype"></i></a></li>

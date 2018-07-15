@@ -65,22 +65,19 @@
         <h1><span>Experiências</span></h1>
     </div>
     <div class="nine columns main-col">
-        <!--<p>
-        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-        eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-        voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione
-        voluptatem sequi nesciunt.
-        </p>-->
         <div class="bars">
             <ul class="skills">
                 <li>
-                    <span class="bar-expand x"></span><em>Direito X</em>
+                    <span class="bar-expand civil"></span><em>Direito Cívil</em>
                 </li>
                 <li>
-                    <span class="bar-expand y"></span><em>Direito Y</em>
+                    <span class="bar-expand eleitoral"></span><em>Direito Eleitoral</em>
                 </li>
                 <li>
-                    <span class="bar-expand z"></span><em>Direito Z</em>
+                    <span class="bar-expand empresarial"></span><em>Direito Empresarial</em>
+                </li>
+                <li>
+                    <span class="bar-expand previdenciario"></span><em>Direito Previdenciário</em>
                 </li>
             </ul>
         </div>
