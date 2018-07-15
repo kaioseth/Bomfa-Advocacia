@@ -1,9 +1,9 @@
 <div class="row">
-    <div class="two columns">
-        <img class="profile-pic"  src="images/profilepic.jpg" alt="" />
+    <div class="four columns">
+        <img class="profile-pic"  src="images/profile.jpg" alt="" />
     </div>
 
-    <div class="ten columns main-col">
+    <div class="eight columns main-col">
         <h2>Sobre mim</h2>
         <p style="text-align: justify">
         Advogado, formado pela Universidade Católica Dom Bosco, de Campo Grande - MS, atuante, pós-graduando em Direito Politico;
@@ -15,17 +15,5 @@
         Disponibilidade imediata para o exercício da função de advocacia e consultoria, 
         vez que possui condições para viagens nacionais e internacionais.
         </p>
-        <div class="row">
-            <div class="columns contact-details">
-                <h2>Para entrar em contato</h2>
-                <p class="address">
-                    <span>Tarson Bomfá</span><br>
-                    <span>Celular / Whatsapp:</span> +55 (69) 99265 7112<br>
-                    <span>E-mail:</span> advbomfa@gmail.com<br>
-                    <span>Linkedin:</span>  https://www.linkedin.com/in/tarson-bomf%C3%A1-2a0557144/<br>
-                    <span>Skype:</span> advbomfa@gmail.com<br>
-                </p>
-            </div>
-        </div>
     </div>
 </div>

@@ -1,11 +1,10 @@
 <div class="banner-text">
-    <h1 class="responsive-headline">Tarson Bomfa.</h1>
+    <h1 class="responsive-headline">Advocacia Bomfá</h1>
     <h3>
         Dizem que amigos verdadeiros passam longos períodos sem se falar e jamais questionarão a solidez da amizade
         Quando eles se encontram, independentemente do tempo e da distância, parece que se viram ontem.
         Entendem que a vida é corrida e que a fina poeira do dias jamais encobrirá o que você sente por eles.
-        <br> Vargas Tellado, 1998 - Sobre o Amor e Outras Matérias Sutis 
-        <!--<br>Saiba mais <a class="smoothscroll" href="#sobre">sobre mim</a>.-->
+        <br> Vargas Tellado, 1998 - Sobre o Amor e Outras Matérias Sutis
     </h3>
     <hr />
     <ul class="social">

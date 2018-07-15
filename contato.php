@@ -41,16 +41,17 @@
                 </div>
             </fieldset>
         </form>
-
-        <aside class="four columns footer-widgets">
-            <div class="widget widget_contact">
-                <h4>Entre em contato</h4>
-                <p class="address">
-                    Telefone/Whatsapp<br>
-                    <span>(123) 456-7890</span>
-                </p>
-            </div>
-        </aside>
-
+    </div>
+</div>
+<div class="row">
+    <div class="columns contact-details">
+        <h2>Para entrar em contato</h2>
+        <p class="address">
+            <span>Tarson Bomfá</span><br>
+            <span>Celular / Whatsapp:</span> +55 (69) 99265 7112<br>
+            <span>E-mail:</span> advbomfa@gmail.com<br>
+            <span>Linkedin:</span>  https://www.linkedin.com/in/tarson-bomf%C3%A1-2a0557144/<br>
+            <span>Skype:</span> advbomfa@gmail.com<br>
+        </p>
     </div>
 </div>

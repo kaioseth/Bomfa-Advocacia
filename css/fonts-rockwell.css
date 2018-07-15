@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'rockwell';
+    src: url('../fonts/Rockwell/Rockwell.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+        font-family: 'rockwell';
+        src: url('../fonts/Rockwell/Rockwell.ttf') format('truetype');
+    }
+}
