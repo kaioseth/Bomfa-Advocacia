@@ -1,31 +1,3 @@
-<div class="row education">
-    <div class="three columns header-col">
-        <h1><span>Formação Acadêmica</span></h1>
-    </div>
-    <div class="nine columns main-col">
-        <div class="row item">
-            <div class="twelve columns">
-                <h3>Pós Graduando</h3>
-                <p class="info">
-                    Direito Eleitoral | PUC - MG
-                    <span>&bull;</span>
-                    <em class="date">Em Andamento</em>
-                </p>
-            </div>
-        </div>
-        <div class="row item">
-            <div class="twelve columns">
-                <h3>Graduação</h3>
-                <p class="info">
-                    Direito | UCDB - MS
-                    <span>&bull;</span>
-                    <em class="date"> Concluído em Dezembro 2017</em>
-                </p>
-            </div>
-        </div>
-    </div>
-</div>
-
 <!--<div class="row work">
     <div class="three columns header-col">
     <h1><span>Work</span></h1>
@@ -62,11 +34,14 @@
 </div>-->
 <div class="row skill">
     <div class="three columns header-col">
-        <h1><span>Experiências</span></h1>
+        <h1><span>Especialidades</span></h1>
     </div>
     <div class="nine columns main-col">
         <div class="bars">
             <ul class="skills">
+                <li>
+                    <span class="bar-expand consumidor"></span><em>Direito do Consumidor</em>
+                </li>
                 <li>
                     <span class="bar-expand civil"></span><em>Direito Cívil</em>
                 </li>

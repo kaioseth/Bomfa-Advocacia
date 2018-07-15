@@ -41,6 +41,12 @@
     border-radius: 3px 0 0 3px;
 }
 
+.consumidor {
+    width: 100%;
+    -moz-animation: illustrator 2s ease;
+    -webkit-animation: illustrator 2s ease;
+}
+
 .civil {
     width: 100%;
     -moz-animation: illustrator 2s ease;
@@ -63,6 +69,15 @@
     width: 100%;
     -moz-animation: css 2s ease;
     -webkit-animation: css 2s ease;
+}
+
+@-webkit-keyframes consumidor {
+    0% {
+        width: 0px;
+    }
+    100% {
+        width: 100%;
+    }
 }
 
 @-webkit-keyframes civil {

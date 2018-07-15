@@ -1,4 +1,4 @@
-<div class="row section-head">
+<!--<div class="row section-head">
     <div class="two columns header-col">
         <h1><span>Vamos trabalhar juntos?</span></h1>
     </div>
@@ -42,14 +42,19 @@
             </fieldset>
         </form>
     </div>
-</div>
+</div>-->
+
 <div class="row">
     <div class="columns contact-details">
-        <h2>Para entrar em contato</h2>
+        <h2 style="color:white;">Para entrar em contato</h2>
         <p class="address">
             <span>Tarson Bomfá</span><br>
-            <span>Celular / Whatsapp:</span> +55 (69) 99265 7112<br>
-            <span>E-mail:</span> advbomfa@gmail.com<br>
+            <span>Celular / Whatsapp:</span>
+            <a href="<?php echo $link_whatsapp; ?>" target="_black"> +55 (69) 99265 7112</a>
+            <br>
+            <span>E-mail:</span>
+            <a href="<?php echo $link_email; ?>" target="_black"> advbomfa@gmail.com</a>
+            <br>
             <span>Linkedin:</span>  https://www.linkedin.com/in/tarson-bomf%C3%A1-2a0557144/<br>
             <span>Skype:</span> advbomfa@gmail.com<br>
         </p>

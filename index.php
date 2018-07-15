@@ -25,11 +25,11 @@
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
     </head>
 <?php
-    $link_email = "";
+    $link_email = "mailto:tarsonbomfa@gmail.com";
     $link_instagram = "";
     $link_linkedin = "";
-    $link_skype = "";
-    $link_whatsapp = "";
+    //$link_skype = "skype:echo123?call";
+    $link_whatsapp = "https://api.whatsapp.com/send?phone=5567992657112&amp;text=Olá";
 ?>
     <body>
         <header id="home">

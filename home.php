@@ -8,10 +8,10 @@
     </h3>
     <hr />
     <ul class="social">
-        <li><a href="<?php echo $link_email; ?>"><i class="far fa-envelope"></i></a></li>
-        <li><a href="<?php echo $link_instagram; ?>"><i class="fab fa-instagram"></i></a></li>
-        <li><a href="<?php echo $link_linkedin; ?>"><i class="fab fa-linkedin-in"></i></a></li>
-        <li><a href="<?php echo $link_skype; ?>"><i class="fab fa-skype"></i></a></li>
-        <li><a href="<?php echo $link_whatsapp; ?>"><i class="fab fa-whatsapp"></i></a></li>
+        <li><a href="<?php echo $link_email; ?>" target="_black"><i class="far fa-envelope"></i></a></li>
+        <!--<li><a href="<?php echo $link_instagram; ?>" target="_black"><i class="fab fa-instagram"></i></a></li>
+        <li><a href="<?php echo $link_linkedin; ?>" target="_black"><i class="fab fa-linkedin-in"></i></a></li>
+        <li><a href="<?php echo $link_skype; ?>" target="_black"><i class="fab fa-skype"></i></a></li>-->
+        <li><a href="<?php echo $link_whatsapp; ?>" target="_black"><i class="fab fa-whatsapp"></i></a></li>
     </ul>
 </div>

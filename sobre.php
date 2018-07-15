@@ -17,3 +17,31 @@
         </p>
     </div>
 </div>
+
+<div class="row education" style="margin-top: 2%;">
+    <div class="three columns header-col">
+        <h2 style="color: white;">Formação Acadêmica</h2>
+    </div>
+    <div class="nine columns main-col">
+        <div class="row item">
+            <div class="twelve columns">
+                <h2 style="color: white;">Pós Graduando</h2>
+                <p class="info">
+                    Direito Eleitoral | PUC - MG
+                    <span>&bull;</span>
+                    <em class="date">Em Andamento</em>
+                </p>
+            </div>
+        </div>
+        <div class="row item">
+            <div class="twelve columns">
+                <h2 style="color: white;">Graduação</h2>
+                <p class="info">
+                    Direito | UCDB - MS
+                    <span>&bull;</span>
+                    <em class="date"> Concluído em Dezembro 2017</em>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
