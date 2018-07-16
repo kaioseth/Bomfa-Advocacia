@@ -3,6 +3,17 @@
 <!--[if IE 8 ]><html class="no-js ie ie8" lang="pt-br"> <![endif]-->
 <!--[if (gte IE 8)|!(IE)]><!--><html class="no-js" lang="pt-br"> <!--<![endif]-->
     <head>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-122330019-2"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-122330019-2');
+        </script>
+
+
         <meta charset="utf-8">
         <title>Bomfa Advocacia</title>
         <meta name="description" content="">
