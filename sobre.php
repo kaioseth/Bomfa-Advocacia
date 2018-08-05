@@ -6,7 +6,8 @@
     <div class="eight columns main-col">
         <h2>Sobre mim</h2>
         <p style="text-align: justify">
-        Advogado, formado pela Universidade Católica Dom Bosco, de Campo Grande - MS, atuante, pós-graduando em Direito Politico;
+        Advogado, formado pela Universidade Católica Dom Bosco, de Campo Grande - MS, atuante, Carteira da
+        OAB-RO 9702.  Pós-graduando em Direito Politico;
         Dotado de capacidades de liderança, organização e determinação.
         Excelente apresentação pessoal, boa dicção, redação e comunicação em geral.
         Raciocínio rápido, estudioso e grande proficiência na área jurídico-administrativa e política.
